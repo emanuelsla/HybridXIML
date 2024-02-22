@@ -42,8 +42,7 @@ Are paper experiments can be reproduced as follows:
 Please use the hyper-parameters from the referenced article.
 The first command initiates the logging directories,
 the second generates the theories (if not already done by the first),
-and the final command compares ML to logical inferences
-- or, CAIPI to hyXIML.
+and the final command compares ML to logical inferences - or, CAIPI to hyXIML.
 
 Finally, the command
 
