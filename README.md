@@ -31,7 +31,7 @@ can be seen by:
 
 ### Reproduction of paper experiments
 
-Are paper experiments can be reproduced as follows:
+Our paper experiments can be reproduced as follows:
 
 `$ python3 -m scripts.main`
 
