@@ -30,5 +30,4 @@
 | six                       | 1.16.0    | MIT License                                       | https://github.com/benjaminp/six                               |
 | urllib3                   | 2.2.1     | MIT License                                       | https://github.com/urllib3/urllib3/blob/main/CHANGES.rst       |
 | wrapt-timeout-decorator   | 1.4.0     | MIT License                                       | https://github.com/bitranox/wrapt_timeout_decorator            |
-| tqdm                      | 4.66.2    | MIT License; Mozilla Public License 2.0 (MPL 2.0) | https://tqdm.github.io                                         |
-| certifi                   | 2024.2.2  | Mozilla Public License 2.0 (MPL 2.0)              | https://github.com/certifi/python-certifi                      |
+| tqdm                      | 4.66.2    | MIT License                                       | https://tqdm.github.io                                         |

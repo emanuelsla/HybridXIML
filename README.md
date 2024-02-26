@@ -21,6 +21,8 @@ logic rule learning.
 
 `$ pip install -r requirements.txt`
 
+(`$ pip uninstall certifi`, module not required)
+
 `$ python3 -m scripts.main`
 
 Executing the prior commands install the project's requirements
