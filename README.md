@@ -51,5 +51,5 @@ Finally, the command
 `$ python3 -m scripts.apply_hximl_from_logging`
 
 executes hyXIML directly from the logging directory,
-using existing model and theories.
+using existing models and theories.
 
