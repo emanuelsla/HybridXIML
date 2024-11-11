@@ -4,8 +4,13 @@ This repository contains supplementary code to our paper with its full reference
 
 ---
 
-Emanuel Slany, Stephan Scheele, and Ute Schmid (2024):
-Hybrid Explanatory Interactive Machine Learning for Medical Diagnosis.
+Slany, Emanuel, Stephan Scheele, and Ute Schmid (2024). 
+“Hybrid Explanatory Interactive Machine Learning for Medical Diagnosis”. 
+In: Artificial Intelligence Applications and Innovations. 
+Ed. by Ilias Maglogiannis et al. 
+Cham: Springer Nature Switzerland, 
+pp. 105–116. 
+DOI: 10.1007/978-3-031-63211-2_9.
 
 ---
 
